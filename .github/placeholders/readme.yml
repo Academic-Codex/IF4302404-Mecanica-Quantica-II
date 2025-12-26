@@ -1,0 +1,12 @@
+REPO_TAGLINE: Angular momentum • perturbation theory • scattering
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/IF4302404-Mecanica-Quantica-II
+
+BG_1: "#0B1020"
+BG_2: "#0F766E"
+TEXT_MAIN: "#ECFEFF"
+TEXT_MUTED: "#A5F3FC"
+ACCENT: "#22D3EE"
+CARD_RADIUS: "18"
